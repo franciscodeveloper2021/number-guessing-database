@@ -4,7 +4,7 @@ This project is a simple number guessing game implemented using a PostgreSQL dat
 
 ## Files
 
-- **number_guessing.sh**: Bash script to interact with the database, allowing players to play the number guessing game and recording game data.
+- **number_guess.sh**: Bash script to interact with the database, allowing players to play the number guessing game and recording game data.
 - **number_guess.sql**: SQL file containing the database schema and initial setup.
 - **README.md**: This file, providing an overview of the project.
 
@@ -19,7 +19,7 @@ This project is a simple number guessing game implemented using a PostgreSQL dat
 Execute the `number_guessing.sh` script to play the number guessing game and interact with the database.
 
 ```bash
-bash number_guessing.sh
+bash number_guess.sh
 ```
 ## Database Schema
 
