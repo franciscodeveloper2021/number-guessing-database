@@ -16,7 +16,7 @@ This project is a simple number guessing game implemented using a PostgreSQL dat
    psql -U <username> -d <database_name> -a -f number_guess.sql
 2. ## Run Game
 
-Execute the `number_guessing.sh` script to play the number guessing game and interact with the database.
+Execute the `number_guess.sh` script to play the number guessing game and interact with the database.
 
 ```bash
 bash number_guess.sh
